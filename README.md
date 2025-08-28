@@ -3,7 +3,7 @@
 ## 📌 Project Overview
 This project analyzes Zomato restaurant data using **Microsoft Excel**.  
 It focuses on **data cleaning, analysis, and visualization** to create an **interactive dashboard**.  
-The dashboard highlights restaurant ratings, cost for two, cuisine preferences, and city-wise distribution.  
+The dashboard highlights restaurant ratings, cost for two, cuisine preferences, and city-wise distribution. 
 
 ---
 
